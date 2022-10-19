@@ -23,3 +23,5 @@ def deleteAccount ():
     print(action)
     
 deleteAccount()
+deleteAccount()
+deleteAccount()
